@@ -1,0 +1,10 @@
+#!/bin/bash
+#mpc clear
+#mpc load KissFM 
+#mpc volume 80
+#mpc play
+
+cd /home/pi/try_node/
+node index.js
+
+exit 0
